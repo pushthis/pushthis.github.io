@@ -2,7 +2,17 @@
 layout: default
 ---
 
-# push this 
+# push this !
 
 Welcome to the best web page for helping you understand the world of software. 
 Because god knows, no one is born knowing this stuff. 
+
+<style>
+    body{
+        background-colour: #434343;
+        colour: #b6d7a8;
+        font-family: monospace;
+    }
+</style>
+
+[First Post](/posts/sample_post.md)
