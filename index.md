@@ -1,5 +1,5 @@
 ---
-
+layout: default
 ---
 
 # push this !
@@ -9,8 +9,8 @@ Because god knows, no one is born knowing this stuff.
 
 <style>
     body{
-        background-colour: #434343;
-        colour: #b6d7a8;
+        background-color: #434343;
+        colou: #b6d7a8;
         font-family: monospace;
     }
 </style>

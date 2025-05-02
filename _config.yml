@@ -1,3 +1,6 @@
 title: push this !
 description: learning software through my mistakes - brought to you by prettygirl69
 author: pushthis
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-themes
